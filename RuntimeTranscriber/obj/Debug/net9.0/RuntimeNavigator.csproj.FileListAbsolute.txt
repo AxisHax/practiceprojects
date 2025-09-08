@@ -1,0 +1,14 @@
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\bin\Debug\net9.0\RuntimeNavigator.exe
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\bin\Debug\net9.0\RuntimeNavigator.deps.json
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\bin\Debug\net9.0\RuntimeNavigator.runtimeconfig.json
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\bin\Debug\net9.0\RuntimeNavigator.dll
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\bin\Debug\net9.0\RuntimeNavigator.pdb
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\obj\Debug\net9.0\RuntimeNavigator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\obj\Debug\net9.0\RuntimeNavigator.AssemblyInfoInputs.cache
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\obj\Debug\net9.0\RuntimeNavigator.AssemblyInfo.cs
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\obj\Debug\net9.0\RuntimeNavigator.csproj.CoreCompileInputs.cache
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\obj\Debug\net9.0\RuntimeNavigator.dll
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\obj\Debug\net9.0\refint\RuntimeNavigator.dll
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\obj\Debug\net9.0\RuntimeNavigator.pdb
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\obj\Debug\net9.0\RuntimeNavigator.genruntimeconfig.cache
+C:\Users\joe.habte\Documents\_PracticeProjects\RuntimeNavigator\obj\Debug\net9.0\ref\RuntimeNavigator.dll

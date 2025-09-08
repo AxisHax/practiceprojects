@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RuntimeNavigator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\joe.habte\\Documents\\_Projects\\24-0108 UPS Mesquite\\guardianx\\runtime\\runtime.json\""
+    }
+  }
+}

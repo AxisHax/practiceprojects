@@ -1,0 +1,15 @@
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\bin\Release\net9.0\RuntimeTranscriber.exe
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\bin\Release\net9.0\RuntimeTranscriber.deps.json
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\bin\Release\net9.0\RuntimeTranscriber.runtimeconfig.json
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\bin\Release\net9.0\RuntimeTranscriber.dll
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\bin\Release\net9.0\RuntimeTranscriber.pdb
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\obj\Release\net9.0\RuntimeTranscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\obj\Release\net9.0\RuntimeTranscriber.AssemblyInfoInputs.cache
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\obj\Release\net9.0\RuntimeTranscriber.AssemblyInfo.cs
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\obj\Release\net9.0\RuntimeTranscriber.csproj.CoreCompileInputs.cache
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\obj\Release\net9.0\RuntimeTranscriber.sourcelink.json
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\obj\Release\net9.0\RuntimeTranscriber.dll
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\obj\Release\net9.0\refint\RuntimeTranscriber.dll
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\obj\Release\net9.0\RuntimeTranscriber.pdb
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\obj\Release\net9.0\RuntimeTranscriber.genruntimeconfig.cache
+C:\Users\joe.habte\Documents\_PracticeProjects\joe.habte\RuntimeTranscriber\obj\Release\net9.0\ref\RuntimeTranscriber.dll
