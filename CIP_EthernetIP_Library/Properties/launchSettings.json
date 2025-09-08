@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CIP_EthernetIP_Library": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost"
+    }
+  }
+}

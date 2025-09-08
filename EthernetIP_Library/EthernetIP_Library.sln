@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EthernetIP_Library", "EthernetIP_Library.csproj", "{E262D278-0333-47C6-A398-7877D4AB96A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E262D278-0333-47C6-A398-7877D4AB96A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E262D278-0333-47C6-A398-7877D4AB96A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E262D278-0333-47C6-A398-7877D4AB96A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E262D278-0333-47C6-A398-7877D4AB96A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD80E132-49E6-4B4B-AB0E-2F457DEA9B58}
+	EndGlobalSection
+EndGlobal
